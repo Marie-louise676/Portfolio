@@ -1,0 +1,200 @@
+body {
+    margin: 0%;
+    font-family: Comfortaa, sans-serif;
+    font-size: 15px;
+    color: antiquewhite;
+    line-height: 1.6;
+    background-color: whitesmoke;
+}
+
+a {
+    color: #f4511e;
+    text-decoration: none;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    color: #f4511e;
+}
+
+/* Header */
+.navbar {
+    margin-bottom: 0;
+    background-color: whitesmoke;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    Padding-top: 0;
+    font-family: "AU Passata";
+    width: 100%;
+}
+
+.navbar-header {
+    text-align: left;
+}
+
+.navbar-fixed-top {
+    position: absolute;
+}
+
+.navbar li a .navbar .navbar-brand {
+    color: whitesmoke !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: black;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: whitesmoke !important;
+}
+
+.collapse {
+    color: greenyellow;
+}
+.container-nav {
+    margin: auto;
+    color: #f4511e;
+    padding: 5px;
+}
+
+.sticky {
+    position: sticky;
+    top: 0px; /* When the element reaches top: 10px, it becomes fixed. */
+    z-index: 100;
+    opacity: 70;
+}
+/* Header slut */
+
+
+/* alt imellem */
+p {
+    text-align: center;
+    text-decoration: none;
+    color: gray;
+    font-family: Century;
+    font-size: 500%;
+}
+
+.p1 {
+    text-align: left;
+    text-decoration: none;
+    color: gray;
+    font-family: Century;
+    font-size: 500%;
+}
+
+.p1 {
+    text-align: left;
+    text-decoration: none;
+    color: gray;
+    font-family: Century;
+    font-size: 200%;
+}
+
+h5 {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: Lovelo;
+    font-size: 100%;
+    padding-bottom: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: Lovelo;
+    font-size: 100%;
+    padding-bottom: 10px;
+}
+
+h6 {
+    text-align: right;
+    text-decoration: none;
+    color: black;
+    font-family: Lovelo;
+    font-size: 100%;
+    padding-bottom: 10px;
+}
+.container-hello {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    color: #f4511e;
+    background-color: whitesmoke;
+}
+
+.img {
+    align-content: center;
+}
+
+.container-about {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    color: #f4511e;
+    background-color: #ff6398;
+    padding-top: 10px;
+}
+/* Portfolio */
+
+.container-fluid {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    color: #f4511e;
+    background-color: aqua;
+}
+
+.container-portfolio {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    color: #f4511e;
+    background-color: whitesmoke;
+    padding-top: 40px;
+}
+.row {
+    width: 100%;
+}
+
+.portfolio-item {
+    display: inline-block;
+    float: none;
+    width: 25%;
+    cursor: pointer;
+    border-radius: 2px;
+    box-sizing: border-box;
+    margin: 0 10px 8px 0;
+    position: relative;
+}
+
+.portfolio-item img {
+    width: 100%;
+    borger-radius: 5px;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+/* Portfolio slut */
+
+
+/* Footer */
+
+footer {
+    background-color: aquamarine;
+    height: 55px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
